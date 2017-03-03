@@ -4,6 +4,9 @@ bin-debug/
 bin-release/
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
+ 
+*.js
+*.js.map
 
 # Other files and folders
 .settings/
